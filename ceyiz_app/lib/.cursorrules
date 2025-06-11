@@ -1,0 +1,14 @@
+
+-MVVM MİMARİSİ OLACAK.Yapıyı bozma.
+-State Management için provider kullanılacak.
+-Yapılacak değişikliklerin tüm kodlarının çalışmasını bozmadan yapılacak.
+-Orta seviye bir yazılımcının yapabileceği kod yapısı olacak.
+-Anlaşılır bir kod yapısı olacak.
+-Temiz bir kod yapısı olacak.
+-Her komut girildiğinde projeye uygunluğuna bakılacak kodlar kontrol edilip fazla bir kod yazılmayacak, kod tekrarından kaçınılacak.
+-Tasarım modern ve kullancı dostu olamlı.
+-Mor mavi koyu temalı renk geçişleri olabilir.
+-Her yaptığın değişiklik ilgili klasörün içinde yapılacak.
+-Eğer aynı methotlar,widgetler aynı yapılar birden fazla yerde kullanılacaksa bunları ortak bir alan oluşturup ordan çek.Yani modüler parçalı ama kolay basit değiştirilebilir kod yapısı olacak.
+-Sorulara Türkçe cevap verilecek.
+
